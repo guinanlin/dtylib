@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  helmexample:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-02-28T13:16:01.306865075+08:00"
+    description: A Helm chart for Kubernetes
+    digest: c6027b4747b427900af227d5075064c15dbf4a8398e7c84e28dd00c607137acf
+    name: helmexample
+    type: application
+    sources:
+    - https://github.com/guinanlin/dtylib
+    urls:
+    - https://github.com/guinanlin/dtylib/blob/main/charts/helmexample-0.1.0.tgz 
+    version: 0.1.0
+generated: "2023-02-28T13:16:01.306380779+08:00"
