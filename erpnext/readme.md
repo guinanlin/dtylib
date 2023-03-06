@@ -1,7 +1,7 @@
 ##### 1.0 . 安装centos 7.6 
-	更改centos源为国内源: https://www.bbsmax.com/A/q4zVxbpl5K/
-	安装 nettools,vim 工具:
-`yum install net-tools vim -y `	
+更改centos源为国内源: https://www.bbsmax.com/A/q4zVxbpl5K/
+安装 nettools,vim 工具:
+yum install net-tools vim -y 
 
 ##### 2.0 . 安装docker, 并且启动docker
 	 安装docker: 
